@@ -4,8 +4,6 @@
 
 (function() {
     'use strict';
-    // ... reste de ton code de plugin ...
-    // (le même que celui que je t'ai donné tout à l'heure)
     const ID_BTN = 'streamix-btn-maximize';
     const ICON_MAX = `<svg width="10" height="10" viewBox="0 0 10 10"><path fill="none" stroke="currentColor" stroke-width="1" d="M1.5,1.5 h7 v7 h-7 z"/></svg>`;
     const ICON_RESTORE = `<svg width="10" height="10" viewBox="0 0 10 10"><path fill="none" stroke="currentColor" stroke-width="1" d="M3.5,3.5 h5 v5 h-5 z M1.5,3.5 v-2 h2 M1.5,6.5 v2 h2 M6.5,1.5 h2 v2"/></svg>`;
